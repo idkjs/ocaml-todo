@@ -1,0 +1,18 @@
+(** @canonical Todo_http.Body *)
+module Body = Todo_http__Body
+
+
+(** @canonical Todo_http.Endpoint *)
+module Endpoint = Todo_http__Endpoint
+
+
+(** @canonical Todo_http.Middleware *)
+module Middleware = Todo_http__Middleware
+
+
+(** @canonical Todo_http.Param *)
+module Param = Todo_http__Param
+
+
+(** @canonical Todo_http.Response *)
+module Response = Todo_http__Response

@@ -15,4 +15,4 @@ val to_opium : t -> Body.t
 
 (** Makes a [Response.t] out of [t] with optional
     [Opium_kernel.Headers.t] and [Opium_kernel.Status.t]. *)
-val to_response : ?headers:Headers.t -> ?status:Status.t -> t -> Response.t Lwt.t
+val to_response : ?headers:Request.Headers.t -> ?status:Status.t -> t -> Response.t Lwt.t

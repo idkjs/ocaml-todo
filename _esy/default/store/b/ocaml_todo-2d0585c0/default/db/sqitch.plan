@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=todo
+%uri=https://github.com/vyorkin/ocaml-todo.git
+
+schema 2020-10-15T15:06:22Z Vasiliy Yorkin <vyorkin@meow> # Add schema
+todos 2020-10-15T15:06:36Z Vasiliy Yorkin <vyorkin@meow> # Add todos
