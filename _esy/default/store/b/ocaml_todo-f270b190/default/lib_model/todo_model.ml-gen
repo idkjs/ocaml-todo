@@ -1,2 +1,0 @@
-(** @canonical Todo_model.Todo *)
-module Todo = Todo_model__Todo

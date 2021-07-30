@@ -1,6 +1,0 @@
-(** @canonical Todo_ws.Client *)
-module Client = Todo_ws__Client
-
-
-(** @canonical Todo_ws.Server *)
-module Server = Todo_ws__Server

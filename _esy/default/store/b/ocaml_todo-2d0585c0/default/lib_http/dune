@@ -1,5 +1,0 @@
-(library
- (name todo_http)
- (libraries todo_base core opium httpaf prometheus)
- (preprocess
-  (pps lwt_ppx ppx_yojson_conv)))

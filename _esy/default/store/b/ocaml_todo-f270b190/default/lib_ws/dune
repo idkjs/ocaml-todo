@@ -1,5 +1,0 @@
-(library
- (name todo_ws)
- (libraries core_kernel websocket-lwt-unix)
- (preprocess
-  (pps lwt_ppx ppx_deriving.eq)))
